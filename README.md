@@ -33,20 +33,14 @@ The dashboard supports business decision-making by highlighting where revenue an
 
 ## Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+### Filtered Category View (Furniture)
+![Filtered Category](Screenshots/Category%20-%20Furniture.png)
 
-### Filtered Category View
-![Filtered Category](screenshots/filtered_furniture_category.png)
+### State-Level Insight (Office Supplies in California)
+![California Insight](Screenshots/Office%20supplies%20in%20California.png)
 
-### State-Level Insight (California)
-![California Insight](screenshots/sales_by_state_california.png)
-
-### City-Level Insight (New York)
-![New York City Insight](screenshots/sales_in_new_york_city.png)
-
-### Sub-Category Performance
-![Subcategory Performance](screenshots/sales_by_subcategory.png)
+### City-Level Insight (Sales of furniture in New York)
+![New York City Insight](Screenshots/Sales%20of%20furniture%20in%20new%20York.png)
 
 ## How to Use
 1. Download `Super_Store_Analysis.pbix` from the `dashboard/` folder
